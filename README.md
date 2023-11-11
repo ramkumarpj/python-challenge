@@ -16,9 +16,11 @@ Following values are calculated
 ## Files
 * Source code:
     PyBank/main.py
-* Data
+  
+* Data:
     PyBank/Resources/budget_data.csv
-* Results
+  
+* Results:
     PyBank/analysis/FinancialResults.txt
 
 ## PyPoll
@@ -35,8 +37,10 @@ Following values to be calcuated
 ## Files
 * Source code:
     PyPoll/main.py
-* Data
+  
+* Data:
     PyPoll/Resources/election_date.csv
-* Results
+  
+* Results:
     PyPoll/analysis/VotingResults.txt
     
