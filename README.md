@@ -3,7 +3,9 @@
 Python challenge tackles 2 real-world situations - PyBank and PyPoll
 
 ## PyBank
-Analyze the financial records of a company
+
+Analyze the financial records of a company, 
+
 Given financial CSV data file contains "Date" and "Profit/Losses"
 
 Following values are calculated
@@ -40,7 +42,9 @@ Following values are calculated
 * Results are printed on the console and also saved to analysis/FinancialResults.txt
   
 ## PyPoll
-Automate the vote-counting process
+
+Automate the vote-counting process, 
+
 Given election data CSV file contains "Voter ID", "County" and "Candidate"
 
 Following values to be calcuated
