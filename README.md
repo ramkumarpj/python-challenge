@@ -26,12 +26,15 @@ Following values are calculated
 ## Run Instructions
 
 * Open a terminal and confirm python version
+
   python --version
 
 * Change directory
+
   cd PyBank
 
 * Run PyBank script
+
   python main.py
 
 * Results are printed on the console and also saved to analysis/FinancialResults.txt
@@ -60,12 +63,15 @@ Following values to be calcuated
 ## Run Instructions
 
 * Open a terminal and confirm python version
+
   python --version
 
 * Change directory
+
   cd PyPoll
 
 * Run PyPoll script
+
   python main.py
 
 * Results are printed on the console and also saved to analysis/VotingResults.txt
