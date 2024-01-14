@@ -79,5 +79,8 @@ Following values to be calcuated
   python main.py
 
 * Results are printed on the console and also saved to analysis/VotingResults.txt
-  
+
+
+# Disclaimer
+This repo was published for educational purpose only. Copyright 2023 edX Boot Camps LLC. All rights reserved.
     
